@@ -19,7 +19,7 @@ Tested features:
 - Valve control works
 - Button switches work
 
-All parts have a LCSC reference number and are at the time of writting this readme available in the JLCPCB SMT library. I have got my prototype boards produced by JLCPCB (quite inexpensive, 5 full SMT assembled and shipped PCB's for arround 75€, additionally E22 module, ESP32 and USB and SMT connectors to be added).
+All parts have a LCSC reference number and are at the time of writting this readme available in the JLCPCB SMT library. I have got my prototype boards produced by JLCPCB (quite inexpensive, 5 full SMT assembled and shipped PCB's for arround 75€, additionally E22 module, ESP32 and USB and SMT connectors to be added and soldered).
 
 The compatible SW can be found in the following OpenSprinkler Firmware branch:
 https://github.com/arijav/AriloSprinkler-Firmware
